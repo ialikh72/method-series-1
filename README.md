@@ -18,4 +18,4 @@ Calls the Greet() method from Main()
 
 Asks the user to enter their name
 
-Prints a positive message using the entered name
+Prints a positive message using the entered name.
